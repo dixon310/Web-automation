@@ -419,3 +419,4 @@ UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadabl
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/8r/3fg72gr17q95lpq98qgn9dwh0000gp/T/rust_mozprofile4eJOqD/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57763/devtools/browser/8c0f7ce1-0c76-43f8-9f2d-ee752e58a527
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
