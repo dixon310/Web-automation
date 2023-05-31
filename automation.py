@@ -19,4 +19,5 @@ search_results = WebDriverWait(driver, 10).until(
 # Get the URL of the first search result
 first_result_url = search_results[0].find_element(By.TAG_NAME, "a").get_attribute("href")
 print(first_result_url)
+driver.get (first_result_url)
 

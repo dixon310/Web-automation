@@ -420,3 +420,40 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:57763/devtools/browser/8c0f7ce1-0c76-43f8-9f2d-ee752e58a527
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
 JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+1685422735999	geckodriver	INFO	Listening on 127.0.0.1:50122
+1685422736515	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/8r/3fg72gr17q95lpq98qgn9dwh0000gp/T/rust_mozprofileagRvnW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685422737639	Marionette	INFO	Marionette enabled
+1685422737807	Marionette	INFO	Listening on port 50130
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50130
+WebDriver BiDi listening on ws://127.0.0.1:50123
+1685422737976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/8r/3fg72gr17q95lpq98qgn9dwh0000gp/T/rust_mozprofileagRvnW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50123/devtools/browser/43faf349-a4c1-4621-9cf3-eabac5f5f27e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1685422741071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.abc.net.au/news-web/_next/static/chunks/framework-0203d16360ddbf38.js, line 9: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1685489358274	Marionette	INFO	Stopped listening on port 50130
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1685489362679	Marionette	INFO	Stopped listening on port 57768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
